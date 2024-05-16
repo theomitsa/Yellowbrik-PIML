@@ -4,3 +4,4 @@
 
 # Yellowbrik-PIML
 Code examples for how to do model analysis with Python packages Yellowbrick and PiML
+Note that PiML runs in versions of Python <=3.10
